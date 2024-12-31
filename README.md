@@ -64,7 +64,6 @@
 ## Screenshots
 
 ![Main Screen](screenshots/main_screen.png)
-![Order History](screenshots/order_history.png)
 
 ---
 
